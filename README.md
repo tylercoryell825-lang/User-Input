@@ -1,6 +1,7 @@
 # User-Input
 
 #Input01
+
 This program will
 
 Shows a dialog asking for a number
@@ -14,6 +15,7 @@ Prints the int + 1
 Shows a second dialog and parses it in one line
 
 #Input03
+
 This program will
 
 Prompts the user for three integers
